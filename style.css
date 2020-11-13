@@ -1,11 +1,13 @@
-body{
+body {
     text-align: center;
     background-color: darkorange;
 }
-img{
-    height: 500px;
+
+img {
+    height: 450px;
 }
-button{
+
+button {
     height: 100px;
     width: 100px;
     margin-left: 200px;
